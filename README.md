@@ -5,9 +5,10 @@ ______________________________
 ># Mobile and Tablet Design
 ![Screenshot 2022-05-29 075207](https://user-images.githubusercontent.com/56185049/170852798-88d080ee-8a5a-416e-a1e4-7e21990ee4d7.png)
 _____________________________
-#### Link to the website
-|https://firstdeployments.netlify.app/|
+## Link to the website
+| https://firstdeployments.netlify.app/|
 
+_____________________________________________
 | Social Media | Links                             
 | ------------ | --------------------------------- 
 | LinkedIn     | https://www.linkedin.com/in/muhammed-jafer-67a7aa191/
