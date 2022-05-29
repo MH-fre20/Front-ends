@@ -5,9 +5,7 @@ ______________________________
 ># Mobile and Tablet Design
 ![Screenshot 2022-05-29 075207](https://user-images.githubusercontent.com/56185049/170852798-88d080ee-8a5a-416e-a1e4-7e21990ee4d7.png)
 
-![linkedin-brands](https://user-images.githubusercontent.com/56185049/170853440-a03de336-6b89-46cc-aa20-4e4df64c30ce.svg)
 
-
-| Social Media | Links                             |
-| ------------ | --------------------------------- |
-| Linked
+| Social Media | Links                             
+| ------------ | --------------------------------- 
+| LinkedIn     | https://www.linkedin.com/in/muhammed-jafer-67a7aa191/
