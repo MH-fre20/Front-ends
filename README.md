@@ -4,3 +4,9 @@
 ______________________________
 ># Mobile and Tablet Design
 ![Screenshot 2022-05-29 075207](https://user-images.githubusercontent.com/56185049/170852798-88d080ee-8a5a-416e-a1e4-7e21990ee4d7.png)
+
+<i class="fa-solid fa-camera-retro fa-lg"></i>
+
+| Social Media | Links                             |
+| ------------ | --------------------------------- |
+| Linked
